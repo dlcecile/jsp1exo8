@@ -1,0 +1,19 @@
+#submit{
+  background-color: pink;
+  border-radius: 10px;
+  box-shadow: 20px;
+
+}
+#age{
+background-color: pink;
+color:white;
+}
+.zonetext{
+  border:2px solid grey;
+  color: black;
+  font-weight: bold;
+  background-color: grey;
+  display: flex;
+  flex direction: row;
+  justify-content:space-around;
+}
